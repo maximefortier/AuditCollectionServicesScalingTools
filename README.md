@@ -8,3 +8,4 @@ Collection of PowerShell scripts and T-SQL queries that enables the scalability 
 - Optimized Audit Collection Services (ACS) Collector Filtering
 - Enhanced Reporting and Analytics 
 - Predictive Capacity Management
+- Windows Security Events Heatmap
